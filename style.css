@@ -27,7 +27,7 @@
 }
 .wallet{
 	text-align: center;
-	background-color: lightgrey;
+	background-color: rgba(239,239,239,0.6);
 	padding: 1% 1% ;
 }
 .recharge{
@@ -115,7 +115,7 @@
 	padding: 3% 15% 3% 15%;
 	font-size: 25px;
 	justify-content: space-between;
-    background-color: lightgrey;
+    background-color: rgba(239,239,239,0.6);
 }
 .pay{
 	margin-top: 3%;
@@ -129,7 +129,7 @@
 	padding: 5% 0.3% 5% 0.3%;
 	font-size: 25px;
 	justify-content: space-between;
-    background-color: lightgrey;
+    background-color: rgba(239,239,239,0.6);
 }
 .parent{
 	display: flex;
@@ -155,15 +155,16 @@
 	padding: 3% 0.3% 3% 0.3%;
 	font-size: 25px;
 	justify-content: space-between;
-    background-color: lightgrey;
+    background-color: rgba(239,239,239,0.6);
 }
 .learnmore{
 	background-color: navy;
 	color: white;
-	width: 20%;
-	padding: 2% 4% 2% 4%;
+	width: 25%;
+	padding: 2% 5% 2% 4%;
 	border-radius: 25px;
-	margin: 5%;
+	margin-right: 5%;
+	margin-top: 4%;
 }
 .learnmore:hover{
 	background-color: deepskyblue;
@@ -205,4 +206,141 @@
 	font-size: 20px;
 	font-weight: bold;
 	margin-top: 5%;
+}
+.sec9{
+	display: flex;
+	padding: 6% 0% 3% 6%;
+	justify-content: space-around;
+    font-family: 'Poppins', sans-serif;
+}
+.finance h1{
+	font-size: 45px;
+	margin-bottom: 10%;
+}
+.zero{
+	font-size: 40px;
+	font-weight: bolds;
+	margin-top: 6%;
+	margin-bottom: 6%;
+}.finger{
+	font-size: 20px;
+}
+.sec10{
+	display: flex;
+	justify-content: space-around;
+	background-image: url("images/image29.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 5%;
+	background-color: rgba(239,239,239,0.8);
+}
+.goals{
+	font-size: 25px;
+}
+.goals h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 6%;
+}
+.more{
+	padding: 2% 1% 2% 6%;
+	background-color: navy;
+	color: white;
+	width: 28%;
+	margin-top: 3%;
+	border-radius: 25px;
+}
+.more:hover{
+	background-color: deepskyblue;
+	color: white;
+}
+.sec11{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+}
+.easy{
+	font-size: 25px;
+}
+.easy h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.sec12{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+	background-color: rgba(239,239,239,0.6);
+}
+.loan{
+	font-size: 23px;
+}
+.loan h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.online{
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	background-color: rgba(239,239,239,0.6);
+	padding: 10% 0% 10% 3%;
+}
+.accept{
+	margin-top: 10%;
+	font-size: 15px;
+	margin-left: 4%;
+}
+.sec13{
+	padding: 5% 14% 5% 14%;
+	font-size: 28px;
+}
+.accept h1{
+	font-size: 35px;
+	margin-bottom: 4%;
+}
+.accept p{
+	margin-bottom: 8%;
+	font-size: 17px;
+}
+.business{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 3% 2% 2% 12%;
+}
+.grow{
+	font-size: 40px;
+	margin-left: 13%;
+	margin-top: 5%;
+	margin-bottom: 3%;
+	font-family: 'Poppins', sans-serif;
+}
+.business h1{
+	margin-top: 10%;
+	font-size: 25px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 5%;
+}
+.business p{
+	font-size: 18px;
+	margin-bottom: 4%;
+}
+.learn{
+	margin-bottom: 10%;
+	font-family: 'Poppins', sans-serif;
+}
+.invest{
+	margin-top: 5%;
+}
+.invest p{
+	margin-top: 2%;
+}
+.sec15{
+	display: flex;
+	padding: 5%;
+}
+.img{
+	padding-left: 3%;
 }
