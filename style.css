@@ -1,5 +1,6 @@
 *{
 	margin: 0%;
+	/*border: 1px solid red;*/
 }
 .navbar{
 	padding: 0.8%;
@@ -343,4 +344,9 @@
 }
 .img{
 	padding-left: 3%;
+}
+@media(max-width: 1366px){
+	.navbar a{
+		font-size: 8px;
+	}
 }
